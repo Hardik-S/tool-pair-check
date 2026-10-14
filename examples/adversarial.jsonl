@@ -1,0 +1,5 @@
+{"id":"first","type":"call"}
+{"id":"second","type":"result"}
+{"id":"first","type":"call"}
+{"id":"second","type":"call"}
+{"id":"first","type":"result"}
